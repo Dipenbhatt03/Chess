@@ -1,4 +1,4 @@
-A Cross platform chess engine made in pure javascript.
+A online chess engine made in javascript.
 
 Feature List:
     1. Fully functional gui.
