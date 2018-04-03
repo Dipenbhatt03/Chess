@@ -1,0 +1,70 @@
+#FenInDiv
+{
+    left : 60px;
+    position:relative;
+}
+
+
+#board
+{
+    position: relative;
+    top: 20px;
+    left: 60px;
+    width: 480px;
+    height: 480px;
+
+    border: 1px solid black;
+}
+#EngineInput
+{
+	position : absolute;
+	top: 200px;
+	left: 700px;
+}
+
+.Square
+{
+	height: 60px;
+	width: 60px;
+	position: absolute;
+}
+
+.Light
+{
+	background-color: #cce6ff;
+}
+
+.Dark
+{
+    background-color: darkgrey;
+
+}
+
+.Selected
+{
+	background-color: grey;
+}
+
+.Piece
+{
+	position: absolute;
+}
+
+
+.FILE_A{left: 0px;}
+.FILE_B{left: 60px;}
+.FILE_C{left: 120px;}
+.FILE_D{left: 180px;}
+.FILE_E{left: 240px;}
+.FILE_F{left: 300px;}
+.FILE_G{left: 360px;}
+.FILE_H{left: 420px;}
+
+.RANK_8{top: 0px;}
+.RANK_7{top: 60px;}
+.RANK_6{top: 120px;}
+.RANK_5{top: 180px;}
+.RANK_4{top: 240px;}
+.RANK_3{top: 300px;}
+.RANK_2{top: 360px;}
+.RANK_1{top: 420px;}
