@@ -1,9 +1,12 @@
+# JSCHESS
+______________
 A online chess engine made in javascript.
 
 Feature List:
     1. Fully functional gui.
     2. Movable chess piece objects with team coloured piece images.
     3. Supports player v CPU.
+    4. Gives suggestions for a better move.
 
 Multiplayer feature added.
 
