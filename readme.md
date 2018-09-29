@@ -1,9 +1,14 @@
-A online chess engine made in javascript.
+## Multiplayer Online Chess Game
+_________________________
 
-Feature List:
+A online chess engine made in javascript and Nodejs.
+
+#### Feature List:
     1. Fully functional gui.
     2. Movable chess piece objects with team coloured piece images.
     3. Supports player v CPU.
+    4. Different *difficulity* levels.
+    5. Suggest better moves.
 
 Multiplayer feature added.
 
