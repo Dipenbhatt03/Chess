@@ -1,14 +1,19 @@
-# JSCHESS
-______________
+<h1 align="center">
+  <br>JSCHESS
+  <br>
+</h1>
+<hr>
+<h3 align="center">
+<br>A MULTIPLAYER CHESS GAME
+</h3>
 A online chess engine made in javascript.
 
-Feature List:
+#### Feature List:
     1. Fully functional gui.
     2. Movable chess piece objects with team coloured piece images.
     3. Supports player v CPU.
-    4. Gives suggestions for a better move.
-
-Multiplayer feature added.
+    4. Gives suggestions for a better move.	
+    5. Multiplayer feature added.
 
 Visit https://vast-sands-21917.herokuapp.com/ for live app.
 
