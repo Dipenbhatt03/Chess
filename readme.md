@@ -3,7 +3,7 @@ _________________________
 
 A online chess engine made in javascript and Nodejs.
 
-Feature List:
+#### Feature List:
     1. Fully functional gui.
     2. Movable chess piece objects with team coloured piece images.
     3. Supports player v CPU.
