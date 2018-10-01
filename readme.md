@@ -6,7 +6,6 @@
 <h3 align="center">
 <br>A MULTIPLAYER CHESS GAME
 </h3>
-## Multiplayer Online Chess Game
 _________________________
 
 A online chess engine made in javascript and Nodejs.
