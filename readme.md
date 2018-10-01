@@ -1,16 +1,25 @@
-## Multiplayer Online Chess Game
+<h1 align="center">
+  <br>JSCHESS
+  <br>
+</h1>
+<hr>
+<h3 align="center">
+<br>A MULTIPLAYER CHESS GAME
+</h3>
 _________________________
 
 A online chess engine made in javascript and Nodejs.
+
 
 #### Feature List:
     1. Fully functional gui.
     2. Movable chess piece objects with team coloured piece images.
     3. Supports player v CPU.
-    4. Different *difficulity* levels.
-    5. Suggest better moves.
+    4. Gives suggestions for the best move.	
+    5. Multiplayer feature added.
+    6. Different *difficulity* levels.
 
-Multiplayer feature added.
+
 
 Visit https://vast-sands-21917.herokuapp.com/ for live app.
 
