@@ -6,9 +6,8 @@
 <h3 align="center">
 <br>A MULTIPLAYER CHESS GAME
 </h3>
-_________________________
 
-A online chess engine made in javascript and Nodejs.
+> A online chess engine made in javascript and Nodejs.
 
 
 #### Feature List:
@@ -21,6 +20,13 @@ A online chess engine made in javascript and Nodejs.
 
 
 
-Visit https://vast-sands-21917.herokuapp.com/ for live app.
+Visit [live app](https://vast-sands-21917.herokuapp.com/)
 
-To run locally clone the app, make sure node is installed and go into the directory and run npm start.
+<h3>To run locally:</h3>
+
+    1. Clone the app.
+    2. Make sure node is installed.
+    3. Go into the directory.
+    4. Run npm start.
+ 
+ ------
