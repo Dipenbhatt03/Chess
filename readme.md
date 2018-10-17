@@ -8,7 +8,7 @@
 </h3>
 _________________________
 
-A online chess engine made in javascript and Nodejs.
+<p>A online chess engine made in javascript and Nodejs.</p>
 
 
 #### Feature List:
@@ -23,4 +23,4 @@ A online chess engine made in javascript and Nodejs.
 
 Visit https://vast-sands-21917.herokuapp.com/ for live app.
 
-To run locally clone the app, make sure node is installed and go into the directory and run npm start.
+<p>To run locally clone the app, make sure node is installed and go into the directory and run npm start.</p>
